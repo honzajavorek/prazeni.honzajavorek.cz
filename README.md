@@ -1,0 +1,1 @@
+# prazeni.honzajavorek.cz
