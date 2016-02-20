@@ -1,0 +1,17 @@
+language: python
+python:
+    - "3.5"
+install:
+    - "make install"
+script:
+    - "make lint"
+env:
+  global:
+    - secure: "dogFK5EqzcqDD4hzxFRiq5drCtig8nygcuDK0C/iNbFMKdSo/FVg9stCSmjCOxDx4CYHLkJv2pKYrnJf+z0fCp/NS8QPBNQzhJdPBoNv5oB7K7conDKQ7QT8/fFSwkS4IPwJWrM2Fyut3U7QQC5XhMWHPb4Zv0hpZNAHQ89gxXi6fsA+nGehsmfXetn/KIiS/splF+F31U96iyF8U27oE/7LGSDCi1BdwGmtXrHvdoXha6LMwWgATup60weVggRJ235M6/Pfq8mj7RP4E4WjR/124PKEPzzslqKL4IEd6pywDE+vtMb+MCdyUZU3ymxYVxWqY593uRiQtkm6oCkwKRDcLjFdFBBI6/AHgjQzhNh3H/zhjkjp2KIFX8dyyaWNxfQeZd/pkN5vwIoMluI7lCU98X2i/59Kqcjg6/9vM2pSXsDlAFPQGuvEdFEAgmePHKV1o8Xn5T4C6/o76mM6TCtpnyFADXsue/51c4cgfUPI2w0/7j48wPd1ui4q01ljBxHaq4ay63o8wupRhoSMATm5imyTSKo9/ObBwv6mC7PbEV0e1t2KGR9EPgm7K8HjpdV4FN1roV4BKVM2hNsUzvvCnwegahfuDvGaHdcySrGpjwGZ1HYJ1bmUeugi7tcT3UygAKcEj8HZuQmUAsoTAK2ppC3njuDw9A4hbalfQaw="
+deploy:
+    provider: "script"
+    script: "make deploy"
+    on:
+        branch: "master"
+        repo: "honzajavorek/prazeni.honzajavorek.cz"
+sudo: false
