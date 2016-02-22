@@ -1,6 +1,6 @@
 Title: Startujem!
 Date: 2014-10-16 08:57:00
-Author: Zuzka a Honza
+Author: Zuzka & Honza
 
 
 Dneska má svátek Havel, tak sedíme na jeho letišti a míříme směr
