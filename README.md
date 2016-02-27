@@ -9,37 +9,37 @@ friends in Brno know how we are doing after moving to Prague.
 
 1.  Before writing, make sure you download other people's changes from GitHub:
 
-    ```
+    ```shell
     $ blog update
     ```
 
 2.  To start a new article, use:
 
-    ```
+    ```shell
     $ blog write
     ```
 
 3.  To add photos to the last article you just started, use:
 
-    ```
+    ```shell
     $ blog photos ../../my-photos/album/
     ```
 
     It should work also with a single picture:
 
-    ```
+    ```shell
     $ blog photos ../../my-photos/album/24340826629_d5bb5abb9e_o.jpg
     ```
 
 4.  To locally verify how your changes are going to look like, use:
 
-    ```
+    ```shell
     $ blog preview
     ```
 
 5.  When ready, publish your changes:
 
-    ```
+    ```shell
     $ blog publish
     ```
 
