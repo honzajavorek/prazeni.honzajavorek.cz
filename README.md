@@ -5,6 +5,7 @@
 Source code of a blog called _Pražení_, which Zuzka and I started to let our
 friends in Brno know how we are doing after moving to Prague.
 
+
 ## Writing articles
 
 1.  Before writing, make sure you download other people's changes from GitHub:
@@ -43,7 +44,7 @@ friends in Brno know how we are doing after moving to Prague.
     $ blog publish
     ```
 
-    When published, check [Travis CI](https://travis-ci.org/honzajavorek/prazeni.honzajavorek.cz) for possible errors. If it's green and there are no errors, the blog was successfully published and should be accessible from [prazeni.honzajavorek.cz](http://prazeni.honzajavorek.cz/).
+    When published, check [Travis CI](https://travis-ci.org/honzajavorek/prazeni.honzajavorek.cz) for possible errors. If it's green and there are no errors, the blog was successfully published and should be accessible from [prazeni.honzajavorek.cz](http://prazeni.honzajavorek.cz/) in a minute or two.
 
 
 ## License
