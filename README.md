@@ -43,7 +43,7 @@ friends in Brno know how we are doing after moving to Prague.
     $ blog publish
     ```
 
-    When published, check [Travis CI](https://travis-ci.org/honzajavorek/danube-delta) for possible errors. If it's green and there are no errors, the blog was successfully published and should be accessible from [prazeni.honzajavorek.cz](http://prazeni.honzajavorek.cz/).
+    When published, check [Travis CI](https://travis-ci.org/honzajavorek/prazeni.honzajavorek.cz) for possible errors. If it's green and there are no errors, the blog was successfully published and should be accessible from [prazeni.honzajavorek.cz](http://prazeni.honzajavorek.cz/).
 
 
 ## License
