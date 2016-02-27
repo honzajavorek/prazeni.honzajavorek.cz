@@ -5,6 +5,47 @@
 Source code of a blog called _Pražení_, which Zuzka and I started to let our
 friends in Brno know how we are doing after moving to Prague.
 
+## Writing articles
+
+1.  Before writing, make sure you download other people's changes from GitHub:
+
+    ```
+    $ blog update
+    ```
+
+2.  To start a new article, use:
+
+    ```
+    $ blog write
+    ```
+
+3.  To add photos to the last article you just started, use:
+
+    ```
+    $ blog photos ../../my-photos/album/
+    ```
+
+    It should work also with a single picture:
+
+    ```
+    $ blog photos ../../my-photos/album/24340826629_d5bb5abb9e_o.jpg
+    ```
+
+4.  To locally verify how your changes are going to look like, use:
+
+    ```
+    $ blog preview
+    ```
+
+5.  When ready, publish your changes:
+
+    ```
+    $ blog publish
+    ```
+
+    When published, check [Travis CI](https://travis-ci.org/honzajavorek/danube-delta) for possible errors. If it's green and there are no errors, the blog was successfully published and should be accessible from [prazeni.honzajavorek.cz](http://prazeni.honzajavorek.cz/).
+
+
 ## License
 
 All Rights Reserved © 2014–2016 Zuzka & Honza
