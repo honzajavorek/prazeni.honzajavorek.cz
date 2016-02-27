@@ -2,8 +2,7 @@
 
 [![Build Status](https://travis-ci.org/honzajavorek/prazeni.honzajavorek.cz.svg?branch=master)](https://travis-ci.org/honzajavorek/prazeni.honzajavorek.cz)
 
-Source code of a blog called _Pražení_, which Zuzka and I started to let our
-friends in Brno know how we are doing after moving to Prague.
+Source code of a blog called _Pražení_, which [@zuzejk](https://github.com/zuzejk) and I started to let our friends in Brno know how we are doing after moving to Prague.
 
 
 ## Writing articles
@@ -49,4 +48,4 @@ friends in Brno know how we are doing after moving to Prague.
 
 ## License
 
-All Rights Reserved © 2014–2016 Zuzka & Honza
+All Rights Reserved © 2014–2016 [@zuzejk](https://github.com/zuzejk) & [@honzajavorek](https://github.com/honzajavorek)
