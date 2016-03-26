@@ -1,7 +1,8 @@
+sudo: "required"
+dist: "trusty"
 language: "python"
 python:
     - "3.5"
-cache: "pip"
 before_install:
     # Installing Czech LOCALE - https://docs.travis-ci.com/user/common-build-problems/#System%3A-Required-language-pack-isn%E2%80%99t-installed
     - sudo apt-get update
@@ -17,4 +18,3 @@ deploy:
     on:
         branch: "master"
         repo: "honzajavorek/prazeni.honzajavorek.cz"
-sudo: false
