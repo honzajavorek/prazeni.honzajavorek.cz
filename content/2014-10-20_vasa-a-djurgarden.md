@@ -1,6 +1,6 @@
 Title: Vasa a Djurgården
 Date: 2014-10-20 16:07:18
-Author: Zuzka a Honza
+Authors: Zuzka, Honza
 
 
 Na sobotu jsme si připravili návštěvu Vasa muzea s tím, že se pak uvidí,
