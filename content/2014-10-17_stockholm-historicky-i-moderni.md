@@ -26,7 +26,9 @@ Zaujaly nás netradiční návleky na boty a pestrý výběr gardistů.
 
 V Gamla Stanu před Obeliskem jsme objevili taky srandovní mini
 dodávku... "My shoe is bigger then this
-car"![obrázek]({filename}/images/tumblr_inline_ndlwekcDyP1t37x0f.jpg)
+car"
+
+![obrázek]({filename}/images/tumblr_inline_ndlwekcDyP1t37x0f.jpg)
 
 Honza nostalgicky pokukoval po okolí finského kostelíku, kde mimo jiné
 byla ukryta nejmenší stockholmská socha.

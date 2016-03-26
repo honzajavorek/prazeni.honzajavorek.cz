@@ -69,8 +69,7 @@ přečetl, že konference se odehrává v jednom z nich. V tom, co "vypadá
 jako Benátky":
 
 ![obrázek]({filename}/images/tumblr_inline_nev1fmgoDv1t36z1g.jpg)
-
-(Tohle jsem nefotil, to jsem vygooglil.)
+Tohle jsem nefotil, to jsem vygooglil.
 
 Takže to ještě bude asi zajímavé :-D Dobrou noc! Nebo tedy vám v ČR a
 mému biorytmu asi spíš něco jako dobré ráno.

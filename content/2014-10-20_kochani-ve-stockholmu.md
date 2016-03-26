@@ -8,6 +8,7 @@ vystoupili u Globenu, což jsme už nějakou dobu plánovali. Globen je
 úplně obyčejná hokejová hala, akorát je trochu kulatá.
 
 ![obrázek]({filename}/images/tumblr_inline_ndqzbokQjy1t36z1g.jpg)
+
 Následně jsme vystoupili na jihu jižního ostrova, abychom si jej prošli.
 Nedbaje průvodců, našli jsme spoustu hezkých zákoutí a kostelů.
 
@@ -18,10 +19,13 @@ Vyvenčili jsme BSE a pak jsme šli k přístavu, kde jsem před lety
 vystupoval z finského trajektu po cestě z Erasmu do ČR.
 
 ![obrázek]({filename}/images/tumblr_inline_ndqzg7Pxhv1t36z1g.jpg)
+
 ![obrázek]({filename}/images/tumblr_inline_ndqzgqmLx61t36z1g.jpg)
+
 Nad přístavem je pěkná vyhlídka, tak jsme na ni vylezli.
 
 ![obrázek]({filename}/images/tumblr_inline_ndqzheRSFZ1t36z1g.jpg)
+
 Pak jsme putovali po pobřeží a užívali si výhledy, historické uličky,
 apod. a zamilovávali jsme se do Stockholmu víc a víc.
 
@@ -30,7 +34,9 @@ apod. a zamilovávali jsme se do Stockholmu víc a víc.
 ![obrázek]({filename}/images/tumblr_inline_ndqzivHhwo1t36z1g.jpg)
 
 ![obrázek]({filename}/images/tumblr_inline_ndqzjtjQmP1t36z1g.jpg)
+
 ![obrázek]({filename}/images/tumblr_inline_ndqzk9QiMs1t36z1g.jpg)
+
 ![obrázek]({filename}/images/tumblr_inline_ndqzku9BKF1t36z1g.jpg)
 
 Naše putování vyvrcholilo návštěvou upovídané a přátelské kavárny,

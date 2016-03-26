@@ -21,7 +21,9 @@ robertek s očima.
 Teď už ale šupem na radnici. Byla naprosto famózní. Ani jsme nedýchali,
 jak to tam bylo boží... (Samozřejmě jsme se nadechli, abychom přežili,
 ale až po několika
-sekundách!)![obrázek]({filename}/images/tumblr_inline_ndlxs16KeJ1t36z1g.jpg)
+sekundách!)
+
+![obrázek]({filename}/images/tumblr_inline_ndlxs16KeJ1t36z1g.jpg)
 
 Abych tady dal i nějakou svoji fotku...
 
