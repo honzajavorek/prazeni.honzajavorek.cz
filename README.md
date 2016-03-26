@@ -5,7 +5,15 @@
 Source code of a blog called _Pražení_, which [@zuzejk](https://github.com/zuzejk) and I started to let our friends in Brno know how we are doing after moving to Prague.
 
 
-## Writing articles
+## Installation
+
+```shell
+$ git clone https://github.com/honzajavorek/prazeni.honzajavorek.cz.git ~/prazeni
+$ cd ~/prazeni
+```
+
+
+## Writing Articles
 
 1.  Before writing, make sure you download other people's changes from GitHub:
 
@@ -19,7 +27,7 @@ Source code of a blog called _Pražení_, which [@zuzejk](https://github.com/zuz
     $ blog write
     ```
 
-3.  To add photos to the last article you just started, use:
+3.  To add photos to the article you just started, use:
 
     ```shell
     $ blog photos ../../my-photos/album/
@@ -48,4 +56,4 @@ Source code of a blog called _Pražení_, which [@zuzejk](https://github.com/zuz
 
 ## License
 
-All Rights Reserved © 2014–2016 [@zuzejk](https://github.com/zuzejk) & [@honzajavorek](https://github.com/honzajavorek)
+All Rights Reserved © [@zuzejk](https://github.com/zuzejk) & [@honzajavorek](https://github.com/honzajavorek)
