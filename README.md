@@ -10,6 +10,7 @@ Source code of a blog called _Pražení_, which [@zuzejk](https://github.com/zuz
 ```shell
 $ git clone https://github.com/honzajavorek/prazeni.honzajavorek.cz.git ~/prazeni
 $ cd ~/prazeni
+$ pip install -r requirements.txt
 ```
 
 
