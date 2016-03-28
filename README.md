@@ -38,19 +38,22 @@ Now you should be ready. You can test everything works properly by running `blog
 
 ## Writing Articles
 
-1.  Before writing, make sure you download other people's changes from GitHub:
+1.  Before using the blog, you need to go to the directory where it lives and activate virtualenv.
+    If `blog --help` doesn't work, then you're ready yet.
+
+2.  Before writing, make sure you download other people's changes from GitHub:
 
     ```
     blog update
     ```
 
-2.  To start a new article, use:
+3.  To start a new article, use:
 
     ```
     blog write
     ```
 
-3.  To add photos to the article you just started, use:
+4.  To add photos to the article you just started, use:
 
     ```
     blog photos ../../my-photos/album/
@@ -62,13 +65,13 @@ Now you should be ready. You can test everything works properly by running `blog
     blog photos ../../my-photos/album/24340826629_d5bb5abb9e_o.jpg
     ```
 
-4.  To locally verify how your changes are going to look like, use:
+5.  To locally verify how your changes are going to look like, use:
 
     ```
     blog preview
     ```
 
-5.  When ready, publish your changes:
+6.  When ready, publish your changes:
 
     ```
     blog publish
