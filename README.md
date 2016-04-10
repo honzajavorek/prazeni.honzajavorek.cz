@@ -22,15 +22,34 @@ D:\> git clone https://github.com/honzajavorek/prazeni.honzajavorek.cz.git
 D:\> cd prazeni.honzajavorek.cz
 ```
 
-Then let's create a virtualenv folder, activate the virtualenv and then install dependencies:
+Then let's create a virtualenv folder and activate the virtualenv:
 
 ```
 D:\prazeni.honzajavorek.cz> python -m venv venv
 D:\prazeni.honzajavorek.cz> venv\Scripts\activate.bat
-(venv) D:\prazeni.honzajavorek.cz> pip install -r requirements.txt
 ```
 
-Now you should be ready. You can test everything works properly by running `blog --help`:
+Now we need to install dependencies. Because Windows are the most ridiculous OS on the planet, you can't just install whatever is in the `requirements.txt` file by `pip`. You need to:
+
+1.  Make sure you have the latest `pip`. It's important.
+
+    ```
+    (venv) D:\prazeni.honzajavorek.cz> python -m pip install pip --upgrade
+    ```
+
+2.  Manually download the `lxml` library in form of a *wheel* from [this unofficial registry](http://www.lfd.uci.edu/~gohlke/pythonlibs/#lxml). Choose version appropriate for your Python and OS versions (e.g. `cp35` means Python 3.5, `win32` means 32bit OS). Then install it inside your virtualenv:
+
+    ```
+    (venv) D:\prazeni.honzajavorek.cz> pip install lxml-3.6.0-cp35-cp35m-win32.whl
+    ```
+
+3.  Now proceed with standard installation:
+
+    ```
+    (venv) D:\prazeni.honzajavorek.cz> pip install -r requirements.txt
+    ```
+
+If everything went correctly, you should be ready at this point. You can test everything works properly by running `blog --help`:
 
 ```
 (venv) D:\prazeni.honzajavorek.cz> blog --help
