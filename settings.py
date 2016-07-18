@@ -20,7 +20,7 @@ ABOUT_IMAGE = 'images/about.jpg'
 
 
 # Production settings
-if PRODUCTION:
+if PRODUCTION:  # NOQA
     SITEURL = 'http://prazeni.honzajavorek.cz'
 
 
