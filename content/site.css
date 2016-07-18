@@ -7,6 +7,13 @@ body {
 h1,
 h2,
 h3,
+h4 {
+  font-weight: bold;
+}
+
+h1,
+h2,
+h3,
 h4,
 .site-header-subtitle,
 .supressed,
@@ -33,6 +40,6 @@ a:focus {
     border-color: #D93A2B;
 }
 
-.article-content ul li::before {
+.content ul li::before {
     color: #D93A2B;
 }
