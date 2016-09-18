@@ -80,5 +80,5 @@ Najednou se nám nedostávalo času, chtěli jsme ještě nějaké ty suvenýry,
 
 Takže jsme byli v háji, z tohohle maléru už jsme se prostě nevysekali a mohli jsme si za to samozřejmě sami. Letadlo fuč a jali jsme se začít zjišťovat, jak se nakonec dostaneme domů...
 
-![image description]({filename}/images/2015-08-08 13.35.53.jpg)
+![image description]({filename}/images/2015-08-08.jpg)
 
