@@ -1,4 +1,4 @@
-Title: Zakonèení ve Varšavì
+Title: ZakonÄenÃ­ ve VarÅ¡avÄ›
 Date: 2016-09-18 00:30:00
 Modified: 2016-09-18 00:30:00
 Author: Zuzka
