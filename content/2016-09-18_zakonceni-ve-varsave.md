@@ -19,9 +19,9 @@ Navečer jsme se vydali do centra, kde to díky teplé noci hodně žilo. Korzov
 
 ![image description]({filename}/images/p1250115.jpg)
 
-![image description]({filename}/images/p1250116.jpg)
+![image description]({filename}/images/p1250116.jpg){:width="350px" :center}
 
-![image description]({filename}/images/p1250119.jpg){:width="350px" :center}
+![image description]({filename}/images/p1250119.jpg)
 
 
 
