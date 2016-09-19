@@ -43,3 +43,11 @@ a:focus {
 .content ul li::before {
     color: #D93A2B;
 }
+
+figure img {
+  min-width: 350px !important;
+}
+
+figure img:not([width]) {
+  width: 600px;
+}

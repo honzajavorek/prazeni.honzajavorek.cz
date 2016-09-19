@@ -44,7 +44,7 @@ Ze všeho nejdřív jsme se šli ubytovat, abychom stihli naši hostitelku – D
 
 ![image description]({filename}/images/p1250028.jpg){:width="500px" :center}
 
-Další den v Rize jsme si přivstali, abychom stihli něco vidět před odletem. Procházeli jsme městem a obdivovali jsme pravoslavný kostel a čtvrť, která je výstavní ukázkou secesní architektury. Honza se zde vydal na poštu odeslat naše pohledy a z toho byla velmi veselá historka, když se pokoušel s pani domluvit ohledně známek. Nakonec vyřešila Honzův požadavek na extra známku tím, že na pohled ke známce připsala prospiskou "extra". :D
+Další den v Rize jsme si přivstali, abychom stihli něco vidět před odletem. Procházeli jsme městem a obdivovali jsme pravoslavný kostel a čtvrť, která je výstavní ukázkou secesní architektury. Honza se zde vydal na poštu odeslat naše pohledy a z toho byla velmi veselá historka, když se pokoušel s pani domluvit ohledně známek. Nakonec vyřešila Honzův požadavek na známku navíc (anglicky "extra") tím, že na pohled ke známce připsala prospiskou "extra" :D
 
 ![image description]({filename}/images/p1250031.jpg){:width="500px" :center}
 
@@ -54,7 +54,7 @@ Další den v Rize jsme si přivstali, abychom stihli něco vidět před odletem
 
 ![image description]({filename}/images/p1250043.jpg){:width="500px" :center}
 
-Taky jsme chválili, jak jsou všude v Pobaltí krásně udržované městské parky, Riga nebyla výjimkou. V historickém centru je spousta zajímavostí, ostatně taky náleží do UNESCO. Hlavním symbolem města je dům s kočkama na střeše. Výrazné jsou ale i další historické budovy, z nichž nejstarší je skupina tří domů pojmenovaná Tři bratři. U těchto domů byla ale největší koncentrace turistů, tak jsme si je moc neužili. 
+Taky jsme chválili, jak jsou všude v Pobaltí krásně udržované městské parky, Riga nebyla výjimkou. V historickém centru je spousta zajímavostí, ostatně taky náleží do UNESCO. Hlavním symbolem města je dům s kočkama na střeše. Výrazné jsou ale i další historické budovy, z nichž nejstarší je skupina tří domů pojmenovaná Tři bratři. U těchto domů byla ale největší koncentrace turistů, tak jsme si je moc neužili.
 
 ![image description]({filename}/images/p1250053.jpg){:width="500px" :center}
 
@@ -81,4 +81,3 @@ Najednou se nám nedostávalo času, chtěli jsme ještě nějaké ty suvenýry,
 Takže jsme byli v háji, z tohohle maléru už jsme se prostě nevysekali a mohli jsme si za to samozřejmě sami. Letadlo fuč a jali jsme se začít zjišťovat, jak se nakonec dostaneme domů...
 
 ![image description]({filename}/images/2015-08-08.jpg){:width="500px" :center}
-
