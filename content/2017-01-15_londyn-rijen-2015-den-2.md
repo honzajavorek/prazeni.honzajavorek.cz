@@ -20,7 +20,7 @@ Poprvé jsme měli možnost jet double-deckerem a ještě jsme vychytali ta nejv
 
 ![image description]({filename}/images/p1260030.jpg)
 
-Rozhodli jsme se absolvovat komentovanou prohlídku s průvodcem (tzv. Yeoman Warder nebo taky Beefeater) a nutno dodat, že jsme vychytali neskutečně vtipného chlapíka [Billa](https://twitter.com/billybeefeater?lang=cs), který rozhodně nešetřil politicky nekorektními vtípky. Osobně mě od něj nejvíc pobavila historie vodního příkopu. 
+Rozhodli jsme se absolvovat komentovanou prohlídku s průvodcem (tzv. Yeoman Warder nebo taky Beefeater) a nutno dodat, že jsme vychytali neskutečně vtipného chlapíka [Billa](https://twitter.com/billybeefeater), který rozhodně nešetřil politicky nekorektními vtípky. Osobně mě od něj nejvíc pobavila historie vodního příkopu. 
 
 ![image description]({filename}/images/p1260034.jpg)
 
@@ -44,7 +44,7 @@ Tower of London jsme si díky Billovi parádně užili, rozhodli jsme se nakonec
 
 ![image description]({filename}/images/p1260059.jpg)
 
-Z Toweru jsme se vydali na druhý břeh Temže, kde jsme se šli občerstvit na vyhlášený [Borough Market](http://boroughmarket.org.uk/) nedaleko mrakodrapu Sharp. Bohužel jsme dorazili zrovna v době, kdy už víc než polovina stánků zavírala, ale nějaké dobroty jsme ještě sehnali, třeba paellu s krevetkama. Odtud jsme za postupného stmívání došli k divadlu Globe a na nábřeží jsme narazili i na super pouliční antikvariát. Pokochali jsme se pohledem na rozzářený noční Londýn a pomalu vyrazili domů.
+Z Toweru jsme se vydali na druhý břeh Temže, kde jsme se šli občerstvit na vyhlášený [Borough Market](http://boroughmarket.org.uk/) nedaleko mrakodrapu Shard. Bohužel jsme dorazili zrovna v době, kdy už víc než polovina stánků zavírala, ale nějaké dobroty jsme ještě sehnali, třeba paellu s krevetkama. Odtud jsme za postupného stmívání došli k divadlu Globe a na nábřeží jsme narazili i na super pouliční antikvariát. Pokochali jsme se pohledem na rozzářený noční Londýn a pomalu vyrazili domů.
 
 ![image description]({filename}/images/p1260065.jpg)
 
