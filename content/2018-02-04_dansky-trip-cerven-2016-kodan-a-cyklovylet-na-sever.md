@@ -11,7 +11,7 @@ Do Kodaně jsme přiletěli v pátek odpoledne a vydali jsme se rovnou k Hančin
 
 ![image description]({filename}/images/p1000472.jpg)
 
-No když jsme konečně dorazili na danou adresu, Honza se nemohl Mílovi dovolat a tak jsme tam stáli u vchodu jako trubky a vymýšleli, jak Mílu kontaktovat. Zkoušela jsem i volat do otevřených oken, ale bez odezvy. Nakonec se spojení naštěstí zdařilo a slavnostně jsme se shledali s Votradovci. Vydali jsme se pak na první obhlídku města a vzali jsme to přes městský park Superkilen se zajímavě designovanými prvky od umělců z různých zemí. Za ČR tam byly typické lavičky.
+No když jsme konečně dorazili na danou adresu, Honza se nemohl Mílovi dovolat a tak jsme tam stáli u vchodu jako trubky a vymýšleli, jak Mílu kontaktovat. Zkoušela jsem i volat do otevřených oken, ale bez odezvy. Nakonec se spojení naštěstí zdařilo (Honza na rychlo nakoupil data na roaming a Míla patrně ukončil pobyt na WC) a tak jsme se slavnostně shledali s Votradovci! Vydali jsme se pak na první obhlídku města a vzali jsme to přes městský park Superkilen se zajímavě designovanými prvky od umělců z různých zemí. Za ČR tam byly typické žlutočervené lavičky.
 
 ![image description]({filename}/images/p1000432.jpg)
 
@@ -60,7 +60,7 @@ Nakonec jsme dorazili k prvnímu záchytnému bodu, a to byla výtvarná galerie
 
 ![image description]({filename}/images/p1000548.jpg)
 
-Dojeli jsme pak po pobřeží až do přístavního města Helsingør k zámku Kronborg, známému z Hamleta. Toto město, potažmo i zámek, má strategickou polohu u průlivu mezi Dánskem a Švédskem. Zámek sloužil především na výběr cla od lodí proplouvajících průlivem. Kronborg a bezprostřední okolí je moc příjemné místo, zámek se dal obejít kolem dokola i bez vstupného a po otvírací době. Zaujali nás místní rybáři lovící na pobřeží pod zámkem. Ve spojení s muzeem námořnictví, galerií a kulturním centrem by Kronborg vydal na celodenní návštěvu, nicméně my jsme po kávičce a zákusku v historickém centru města museli ještě dojet do Hillerødu, kde jsme měli zařízené na noc ubytování.
+Dojeli jsme pak po pobřeží až do přístavního města Helsingør k zámku Kronborg, známému z Hamleta. Toto město, potažmo i zámek, má strategickou polohu u průlivu mezi Dánskem a Švédskem. Zámek sloužil především na výběr cla od lodí proplouvajících průlivem. Kronborg a bezprostřední okolí je moc příjemné místo, zámek se dal obejít kolem dokola i bez vstupného a po otvírací době. Zaujali nás místní rybáři lovící na pobřeží pod zámkem. Ve spojení s muzeem námořnictví, galerií a kulturním centrem by Kronborg vydal na celodenní návštěvu, nicméně my jsme po kávičce a zákusku v historickém centru města museli ještě dojet do Hillerødu, kde jsme měli zařízené na noc ubytování. V Helsingøru jsme ještě řešili jednu nemilou událost, když si Honza dal nezodpovědně náš nový drahý foťák do kapsy u kraťasů a po nasednutí na kolo mu vypadl na zem a potloukl se! Honza pak byl na sebe hodně naštvaný a smutný... :'(
 
 
 ![image description]({filename}/images/p1000558.jpg)
@@ -77,7 +77,7 @@ Dojeli jsme pak po pobřeží až do přístavního města Helsingør k zámku K
 
 ![image description]({filename}/images/p1000616.jpg)
 
-Posledních pár kilometrů jsme už jeli fest vyčerpaní a hladoví, šlapali jsme po klikatých vedlejších cestách mimo hlavní silnice, ještě jsme si však neodpustili zastávku u královského zámku ve Fredensborgu. Došlapali jsme večer slavnostně do našeho hostýlku v Hillerødu na romantické samotě u lesa, ale k našemu velkému zklamání zde nebyla žádná možnost občerstvení. Po marném pokusu o objednání nějakého jídla po telefonu se nakonec kluci obětovali a ještě z posledních sil dojeli do města pro pizzy a zachránili nás před smrtí hlady.
+Posledních pár kilometrů z Helsingøru do Hillerødu jsme už jeli fest vyčerpaní a hladoví, šlapali jsme po klikatých vedlejších cestách mimo hlavní silnice, ještě jsme si však neodpustili zastávku u královského zámku ve Fredensborgu. Došlapali jsme večer slavnostně do našeho hostýlku v Hillerødu na romantické samotě u lesa, ale k našemu velkému zklamání zde nebyla žádná možnost občerstvení. Po marném pokusu o objednání nějakého jídla po telefonu se nakonec kluci obětovali a ještě z posledních sil dojeli do města pro pizzy a zachránili nás před smrtí hlady.
 
 ![image description]({filename}/images/p1000627.jpg)
 
@@ -105,7 +105,7 @@ Původně jsme chtěli na kolech dojet do Roskilde a odtud do Kodaně vlakem, na
 Posledních pár kilometrů do Kodaně vedla cyklostezka přímo vedle dálnice, což na mapě vypadlo děsivě, ale nebylo to nakonec ani trochu nepříjemné. Dálnice byla od cyklostezky oddělena velkou protihlukovou stěnou, z druhé strany jsme měli různou přírodu a s auty jsme do kontaktu vůbec nepřišli. A když už to hrozilo, tak vždy to bylo dobře dopravně vyřešeno (auta měla např. v daném úseku omezenou rychlost a výstrahu ohledně pohybu cyklistů).
 
 
-Kodaň - centrum
+# Kodaň - centrum
 Nakonec jsme dorazili zase k Hance na byt a po sprše a krátkém odpočinku jsme se všichni čtyři vydali do centra, tentokrát na kolech. Obhlédli jsme vojenskou pevnost Kastellet, turistické panoptikum kolem sochy malé mořské víly, super tryskací fontánu Gefion, královské sídlo a obligátní nábřeží Nyhavn.
 
 
