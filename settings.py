@@ -35,5 +35,4 @@ else:
 
 # Theming
 DISQUS_SITENAME = 'prazeni'
-GOOGLE_ANALYTICS = 'UA-1316071-18'
 GOOGLE_FONTS = ['PT Sans', 'Wellfleet']
