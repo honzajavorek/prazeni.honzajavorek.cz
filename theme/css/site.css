@@ -1,0 +1,53 @@
+
+body {
+    font-family: 'PT Sans', sans-serif;
+    border-color: #D93A2B;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-weight: bold;
+}
+
+h1,
+h2,
+h3,
+h4,
+.site-header-subtitle,
+.supressed,
+.btn {
+    font-family: 'Wellfleet', sans-serif;
+}
+
+a {
+    color: #D93A2B;
+}
+
+a:hover,
+a:active,
+a:focus {
+    color: #C4331E;
+}
+
+.btn-primary,
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:focus,
+.btn-primary:active:hover {
+    background-color: #D93A2B;
+    border-color: #D93A2B;
+}
+
+.content ul li::before {
+    color: #D93A2B;
+}
+
+figure img {
+  min-width: 350px !important;
+}
+
+figure img:not([width]) {
+  width: 600px;
+}
